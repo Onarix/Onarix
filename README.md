@@ -1,4 +1,4 @@
-### Hi there 👋
+### Henlo :cat:
 
 :bookmark_tabs: My ideas for future projects: 
 - mosquito ai
@@ -9,6 +9,7 @@
 - Crossword puzzle with random generated words (something like tasks in english books)
 - A "game" in which some element (ex. char 'o') is looking for the element x in NxN array and it will look like in some kind of game - and it should follow this element
 - tic-tac-toe multiplayer (host-clients).
+- script (maybe py.) that will automatically delete one file from 'downloads' folder once in x days (files could be in stack, deleted file would be on top())
 
 
 <!--
