@@ -9,7 +9,8 @@
 - A "game" in which some element (ex. char 'o') is looking for the element x in NxN array and it will look like in some kind of game - and it should follow this element
 - tic-tac-toe multiplayer (host-clients).
 - script (maybe py.) that will automatically delete one file from 'downloads' folder once in x days (files could be in stack, deleted file would be on top())
-- spotify playlist merger with automatic updates (script in py. maybe) 
+- spotify playlist merger with automatic updates (script in py. maybe)
+- internet connection speedtest
 
 🌟Finished projects:
 - Ipcalc
