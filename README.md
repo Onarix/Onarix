@@ -5,7 +5,6 @@
 - GBA Gothic port
 - AVL tree with GUI
 - TES Arena Remaster (or a game that looks like Arena xd)
-- Crossword puzzle with random generated words (something like tasks in english books)
 - A "game" in which some element (ex. char 'o') is looking for the element x in NxN array and it will look like in some kind of game - and it should follow this element
 - tic-tac-toe multiplayer (host-clients).
 - script (maybe py.) that will automatically delete one file from 'downloads' folder once in x days (files could be in stack, deleted file would be on top())
@@ -13,7 +12,10 @@
 - internet connection speedtest
 - my own metronome, with songs selection (ex. I pick "Trooper" by Iron Maiden and metronome automatically sets to 161 BPM)
 
-🌟Finished projects:
+⌛ In progress...:
+- Crossword puzzle with random generated words (something like tasks in english books)
+
+🌟 Finished projects:
 - Ipcalc
 
 
