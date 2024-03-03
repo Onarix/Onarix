@@ -10,6 +10,7 @@
 - script (maybe py.) that will automatically delete one file from 'downloads' folder once in x days (files could be in stack, deleted file would be on top())
 - spotify playlist merger with automatic updates (script in py. maybe)
 - internet connection speedtest
+- ski jumping wind compensation simulation
 
 ⌛ In progress...:
 - Crossword puzzle with random generated words (something like tasks in english books)
